@@ -1,0 +1,26 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "nodemon": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nouman-Mughal/Node-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nouman-Mughal/Node-basics/issues"
+  },
+  "homepage": "https://github.com/Nouman-Mughal/Node-basics#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
