@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Nouman-Mughal/Node-basics#readme",
   "devDependencies": {
+    "node": "^17.7.2",
     "nodemon": "^2.0.15"
   }
 }
